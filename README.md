@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Kunal Shinde and I'm a Last year B.E student, from Pune</h2>
 
+<br>
+<br>
 
 <img align="right" height="150" src="https://media.tenor.com/7dr3AgyEiN0AAAAi/anime-girl-wave.gi"  />
 
